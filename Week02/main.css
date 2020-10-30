@@ -1,0 +1,23 @@
+body { 
+    font-family :Helvetica;
+    background-color: rgb(220,220,220);  
+    margin:0;
+  } 
+
+  header{
+    background: rgb(255, 130, 47);
+    color: white;
+}
+
+header h1{
+    margin: 0;
+    display: inline;
+}
+
+.description{
+    text-align: right;
+}
+
+.logo{
+    text-align: right;
+}
