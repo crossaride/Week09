@@ -1,10 +1,14 @@
+*.html{
+    height: 50%;
+}
+
 body { 
     font-family :Helvetica;
     background-color: rgb(220,220,220);  
     margin:0;
   } 
 
-  header{
+header{
     background: rgb(255, 130, 47);
     color: white;
 }
